@@ -657,7 +657,7 @@ body,html{
 	right:0;
 }
 
-.google,.facebook,.instagram,.linkin{
+.google,.facebook,.twitter,.tumblr{
 	-webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 	text-align:right;
@@ -673,10 +673,10 @@ body,html{
 	opacity:1;
 }
 
-.instagram,.facebook,.linkin,.google{padding-right:20px;}
-.instagram,.facebook,.linkin{padding-right:12px;}
+.twitter,.facebook,.tumblr,.google{padding-right:20px;}
+.twitter,.facebook,.tumblr{padding-right:12px;}
 
-.linkin:hover,.google:hover,.facebook:hover,.instagram:hover{color:#CCC;transform: scale(1.2);}
+.tumblr:hover,.google:hover,.facebook:hover,.twitter:hover{color:#CCC;transform: scale(1.2);}
 
 /*----------------------------*/
 /* RWD !important */
