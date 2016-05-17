@@ -657,6 +657,20 @@ body,html{
 	right:0;
 }
 
+footer ul.quicklinks {
+    margin-bottom: 0;
+    text-transform: uppercase;
+    text-transform: none;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 40px;
+}
+
+.list-inline {
+  padding-left: 0;
+  margin-left: -5px;
+  list-style: none;
+}
+
 .google,.facebook,.twitter,.tumblr{
 	-webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
