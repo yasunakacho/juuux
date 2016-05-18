@@ -549,13 +549,6 @@ body,html{
 /* NEWSLETTER BOX */
 /*----------------------------*/
 
-#main_tip_newsletter{
-	float:left;
-	width:100%;
-	height:auto;
-	margin-top:20px;
-}
-
 #tip_newsletter_input
 {
     font: 15px/1.6 Helvetica, sans-serif;
